@@ -1,2 +1,2 @@
 # Maket-Aura
-https://bejancmaster.github.io/Maket-Aura/
+https://cristianbejanmaster.github.io/Maket-Aura/
